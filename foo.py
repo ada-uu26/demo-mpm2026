@@ -13,3 +13,6 @@ def fourpi():
 
 def umang_func(x):
     return x * np.pi * 2
+
+def mpm_practice2026(x):
+    return np.pi * x * x
