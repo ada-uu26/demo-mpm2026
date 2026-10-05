@@ -9,3 +9,7 @@ def func(x):
 
 def fourpi():
     return 4 * np.pi
+
+
+def umang_func(x):
+    return x * np.pi * 2
