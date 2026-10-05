@@ -13,3 +13,6 @@ def fourpi():
 
 def umang_func(x):
     return x * np.pi * 2
+
+def ahi_func(x):
+    return x * np.pi * 32
