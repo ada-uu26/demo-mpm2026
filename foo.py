@@ -10,9 +10,12 @@ def func(x):
 def fourpi():
     return 4 * np.pi
 
-
 def umang_func(x):
     return x * np.pi * 2
 
 def ahi_func(x):
     return x * np.pi * 32
+
+def double(x):
+    return x * 2
+
